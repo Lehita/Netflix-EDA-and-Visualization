@@ -8,3 +8,4 @@
 #### -discover the season Netflix is most likely to add new content to their platform
 #### -the most popular ratings for Netflix movies and TV shows, and much more!
 #### The notebook can be accessed in this repo. Snippets of the visuals👇
+#### ![alt text](
