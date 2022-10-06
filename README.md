@@ -9,5 +9,5 @@
 #### -the most popular ratings for Netflix movies and TV shows, and much more!
 #### The notebook can be accessed in this repo. Snippets of the visuals👇
 #### ![alt text](https://github.com/Lehita/Netflix-EDA-and-Visualization/blob/e099899fc87a9ac60fad92dcecc4bc75b062e604/download.png)
-#### ![alt text](
-#### ![alt text](
+#### ![alt text](https://github.com/Lehita/Netflix-EDA-and-Visualization/blob/a4282aa8a5de130b57d64783ec42e2bd920bf32a/download%20(1).png)
+#### ![alt text](https://github.com/Lehita/Netflix-EDA-and-Visualization/blob/a4282aa8a5de130b57d64783ec42e2bd920bf32a/download%20(2).png)
